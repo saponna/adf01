@@ -8,8 +8,11 @@
 		"LS_Blob_connectionString": {
 			"value": ""
 		},
-		"LS_ADLS_SAS_sasUri": {
+		"LS_ADLS_SAS_accountKey": {
 			"value": ""
+		},
+		"LS_ADLS_SAS_properties_typeProperties_url": {
+			"value": "https://adls35rg01.dfs.core.windows.net/"
 		}
 	}
 }
